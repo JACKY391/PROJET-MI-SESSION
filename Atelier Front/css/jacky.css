@@ -1,0 +1,171 @@
+
+header .icon{
+    width: 35px;
+}
+
+.li-no-style{
+    list-style-type: none;
+}
+
+.li-no-style input{
+    border-radius: 5px;
+    border: 0px;
+    padding: 0 10px;
+}
+
+header {
+    padding: 15px;
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0px 0px 10px 0px;
+}
+
+#nav {
+    display: none;
+    float: left;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    padding: 20px;
+    height: 100%;
+    width: 20%;
+    text-align: left;
+    z-index: 3;
+    position: fixed;
+}
+
+#nav .icon{
+    width: 35px;
+}
+
+#nav li {
+    padding: 10px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#nav a {
+    color: white;
+}
+
+main {
+	padding: 100px 0;
+	
+}
+
+main h2{
+    margin: 100px auto;
+}
+
+main .row:nth-child(2){
+    margin-top: 50px;
+}
+
+main .row:nth-child(3){
+    margin-top: 50px;
+}
+
+ /* main img {
+	width: 20%;
+
+ } */
+
+/* .services ul{
+    list-style:none;
+} */
+
+.resa{
+    background-color: #9a8067;
+    padding: 10px 25px;
+    margin: 30px 150px;
+    font-weight: bolder;
+    font-size: 15px;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px gray;
+}
+
+.resa a{
+    color:white;
+}
+
+
+
+#book{
+    background-color: gray;
+    opacity: 0.9;
+    padding:50px;
+    color: white;
+}
+
+#screen{
+    background-image: url("https://images.unsplash.com/photo-1551525212-a1dc18871d4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80");
+    background-size:cover;
+}
+
+
+/*CHAMBRES CHAMBRES CHAMBRES CHAMBRES CHAMBRES CHAMBRES CHAMBRES CHAMBRES CHAMBRES CHAMBRES CHAMBRES 
+*/
+
+.spacer{
+    margin-top: 50px;
+}
+
+.spacer-down{
+    margin-bottom: 50px;
+}
+
+.discover{
+    background-color: #9a8067;
+    font-size: 20px;
+    padding: 10px 25px;
+    margin-top: 100px;
+    color:white;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px gray;
+}
+
+.discover a{
+    color:white;
+}
+
+/* END CHAMBRES  END CHAMBRES  END CHAMBRES  END CHAMBRES  END CHAMBRES  END CHAMBRES  END CHAMBRES */
+
+footer {
+    height: 15%;
+    background-color: black;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+#footer-list li {
+    padding: 12px 2px;
+}
+
+footer form {
+    height: 25px;
+}
+
+footer label {
+    margin-right: 20px;
+}
+
+footer input {
+    border: none;
+}
+
+footer input:last-child {
+    background-color: #9a8067;
+    font-weight: bolder;
+}
+
+footer .icon {
+    width: 35px;
+    margin-right: 10px;
+}
+
+
