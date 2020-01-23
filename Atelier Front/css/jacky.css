@@ -59,9 +59,9 @@ main h2{
     margin: 100px auto;
 }
 
-main .row:nth-child(2){
+/* main .row:nth-child(2){
     margin-top: 50px;
-}
+} */
 
 main .row:nth-child(3){
     margin-top: 50px;
